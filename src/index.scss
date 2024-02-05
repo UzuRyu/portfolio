@@ -5,7 +5,20 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: rgb(0,  0, 0, 0.925);
+}
+
+@keyframes gradient {
+  0% {
+    background-position: 51% 0%;
+  }
+
+  50% {
+    background-position: 50% 100%;
+  }
+
+  100% {
+    background-position: 51% 0%;
+  }
 }
 
 code {

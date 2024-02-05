@@ -1,13 +1,21 @@
-article{
-    height: auto;
+article {
+    height:330px;
     width: 250px;
     overflow: hidden;
     background-color: gray;
-    border: solid 2px black;
+    border: double 5px black;
+}
+a{
+    text-decoration:none;
+}
+.desc{
+    padding: 5px;
+    text-decoration:none;
+    color: white;
 }
 
 .cover_projet {
-    height: 50%;
+    height: 33%;
     width: 100%;
     object-fit: cover;
 }

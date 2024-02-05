@@ -9,7 +9,7 @@ function Gallerie() {
                 id={item.id}
                 titre={item.titre}
                 cover={item.cover}
-                description={item.desc}
+                description={item.description}
                 lien={item.lien}
                 tags={item.tags}
                 key={i}
