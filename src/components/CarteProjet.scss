@@ -1,0 +1,13 @@
+article{
+    height: auto;
+    width: 250px;
+    overflow: hidden;
+    background-color: gray;
+    border: solid 2px black;
+}
+
+.cover_projet {
+    height: 50%;
+    width: 100%;
+    object-fit: cover;
+}

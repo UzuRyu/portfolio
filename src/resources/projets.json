@@ -1,0 +1,37 @@
+[
+    {
+        "id": "01",
+        "titre": "Grimoire",
+        "cover": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-20-1.jpg",
+        "description": "Back-End NodeJS d'un site de notation de livres avec gestion de MongoDB.",
+        "lien": "https://github.com/UzuRyu/OCGrimoire",
+        "tags": [
+            "NodeJS",
+            "MongoDB",
+            "API Rest Express"
+        ]
+    },
+    {
+        "id": "02",
+        "titre": "Kasa",
+        "cover": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-20-1.jpg",
+        "description": "Front-End d'un site de location ReactJS avec pages multiples et éléments interractifs.",
+        "lien": "https://github.com/UzuRyu/OCKasa",
+        "tags": [
+            "React",
+            "React Router",
+            "Sass"
+        ]
+    },
+    {
+        "id": "03",
+        "titre": "Booki",
+        "cover": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-20-1.jpg",
+        "description": "Création de la page d'acceuil d'un site de voyage.",
+        "lien": "https://github.com/UzuRyu/OCBooki",
+        "tags": [
+            "HTML",
+            "CSS"
+        ]
+    }
+]

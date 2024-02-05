@@ -1,0 +1,46 @@
+#root{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+Section{
+    display: flex;
+    width: calc(90vw - (100vw - 100%));
+    align-items: center;
+    justify-content: space-around;
+    padding: 25px;
+    margin: 10px;
+    gap: 25px;
+
+}
+
+.Profil, .Gallerie{
+    background-color: rgb(255, 75, 0);
+    border-radius: 50px 0;
+
+}
+
+.Capacités, .Contact{
+    background-color: rgb(255, 100, 0);
+    border-radius: 0 50px;
+}
+
+#portrait{
+    position: relative; 
+    border-radius: 50px 0;
+    width: 420px;
+    top: 0;
+    right: 0;
+    border: 5px double;
+}
+
+.Profil > h1 {
+    border: dotted 5px white;
+    border-radius: 20px;
+    padding: 20px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+    font-weight: 700;
+    text-align: center;
+}
