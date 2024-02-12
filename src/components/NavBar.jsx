@@ -1,7 +1,14 @@
 import './NavBar.scss';
 
 function NavBar() {
-    return (<h1 className='NavBar'>Barre des accès rapides du turfu</h1>);
+    return (
+        <ul id='nav'>
+            <li className='navLinks'><a href="#top">Profil</a></li>
+            <li className='navLinks'><a href="#Capa">Compétences</a></li>
+            <li className='navLinks'><a href="#Gallerie">Projets</a></li>
+            <li className='navLinks'><a href="#Contact">Contact</a></li>
+        </ul>
+    );
 }
 
 

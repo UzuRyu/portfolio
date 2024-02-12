@@ -1,4 +1,54 @@
 .contactForm{
     display: flex;
     flex-direction: column;
+    flex-wrap: wrap;
+    gap: 10px;
+    font-size: 20px;
+}
+
+.namecontainer{
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+}
+
+.labelinputcont{
+    color: orange;
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+}
+
+.labelinputcont > input{
+    display: flex;
+    flex-direction: column;
+    font-size: 20px;
+}
+
+#submitbutt{
+    background-color: orange;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+#message{
+    position: relative;
+    font-size: 20px;
+    height: 250px;
+    resize: none;
+}
+
+#message:focus-visible{
+    outline: 2px orange solid;
+}
+
+.labelinputcont > input:focus-visible{
+    outline: 2px orange solid;
+}
+
+@media (max-width: 768px) {
+    .contactForm{
+        margin-left: 25px;
+        margin-right: 25px;
+    }
 }
