@@ -30,3 +30,9 @@
     -webkit-animation: 0;
     animation: 0;
   }
+
+  @media (max-width: 1024px) {
+    .switchingText, .typed-cursor{
+      font-size: 25px;
+    }
+}
