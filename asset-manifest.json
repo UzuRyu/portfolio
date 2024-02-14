@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.b7f5b57c.css",
-    "main.js": "/static/js/main.70e0b430.js",
+    "main.js": "/static/js/main.82a17020.js",
     "static/js/787.1e819a95.chunk.js": "/static/js/787.1e819a95.chunk.js",
-    "static/media/Booki.png": "/static/media/Booki.f93adbf474232c6d4b5d.png",
-    "static/media/Grimoire.png": "/static/media/Grimoire.d1af40dfdb66287d056d.png",
-    "static/media/Kasa.png": "/static/media/Kasa.5ddb2c36da142a932cdb.png",
-    "static/media/Portrtait.jpg": "/static/media/Portrtait.8f2ff1371b13eee62ecc.jpg",
+    "static/media/Booki.webp": "/static/media/Booki.52b4d3e68dae8400f690.webp",
+    "static/media/Portrtait.webp": "/static/media/Portrtait.4ec9fa2b7820fba3ecb5.webp",
+    "static/media/Kasa.webp": "/static/media/Kasa.5956006d1d9d82dd89f1.webp",
+    "static/media/Grimoire.webp": "/static/media/Grimoire.173e00a48da493c64214.webp",
     "index.html": "/index.html",
     "main.b7f5b57c.css.map": "/static/css/main.b7f5b57c.css.map",
-    "main.70e0b430.js.map": "/static/js/main.70e0b430.js.map",
+    "main.82a17020.js.map": "/static/js/main.82a17020.js.map",
     "787.1e819a95.chunk.js.map": "/static/js/787.1e819a95.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b7f5b57c.css",
-    "static/js/main.70e0b430.js"
+    "static/js/main.82a17020.js"
   ]
 }
